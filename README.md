@@ -6,7 +6,7 @@
 
 # badges 
 <img src="https://tryhackme-badges.s3.amazonaws.com/frustrateduser.png" alt="TryHackMe">
-<a href="https://tryhackme.com/frustrateduser/badges/web-fund"></a>
+
 
 
 <!---
