@@ -4,6 +4,9 @@
 - 💞️ I’m looking👀 to collaborate on any project.
 - 📫 How to reach me .--------  you can message me here in 🫠#Discussions or can mail📧📬 me at <e-mail>frustateduser@tutanota.com</e-mail>.
 
+<script src="https://tryhackme.com/badge/2064379"></script>
+
+
 <!---
 frustateduser/frustateduser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
