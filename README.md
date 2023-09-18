@@ -4,8 +4,7 @@
 - 💞️ I’m looking👀 to collaborate on any project.
 - 📫 How to reach me .--------  you can message me here in 🫠#Discussions or can mail📧📬 me at <e-mail>frustateduser@tutanota.com</e-mail>.
 
-# badges 
-<img src="https://tryhackme-badges.s3.amazonaws.com/frustrateduser.png" alt="TryHackMe">
+
 
 
 
