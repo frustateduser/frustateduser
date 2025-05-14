@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, IoT, Blockchain, Web-devlopment, C++, Python.
 - 🌱 I’m currently pearsuing B.Tech in CSE💻
 - 💞️ I’m looking👀 to collaborate on any project.
-- 📫 How to reach me .--------  you can message me here in 🫠#Discussions.
+- 📫 How to reach me : koustubhbadshah@outlook.com
 
 
 
