@@ -17,7 +17,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Social's
 <p align="center">
   <a href="https://www.holopin.io/@frustateduser" target="_blank"><img src="https://www.holopin.io/images/Long.svg" alt="Holopin Badges" width="200"/></a>
 </p>
@@ -32,6 +32,7 @@
   <a href="https://www.hackerrank.com/frustateduser" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="https://www.leetcode.com/frustateduser" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.hackerearth.com/@frustateduser" target="_blank"><img src="https://img.shields.io/badge/-HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/koustubhbadshah" target="_blank"><img src="https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
   <a href="https://fb.com/koustubhbadshah" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
@@ -60,7 +61,7 @@
 ---
 
 <p align="center">
-  <i>“The most dangerous vulnerability is the illusion of security.”  — Me who else 🫠</i>
+  <i>“The most dangerous vulnerability is the illusion of security.” — Me who else 🫠</i>
 </p>
 
 ---
