@@ -4,19 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frustateduser&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frustateduser&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🌐 Social's
 <p align="center">
   <a href="https://www.holopin.io/@frustateduser" target="_blank"><img src="https://www.holopin.io/images/Long.svg" alt="Holopin Badges" width="200"/></a>
@@ -24,6 +11,12 @@
 
 <p align="center">
   <a href="https://twitter.com/koustubhbadshah" target="blank"><img src="https://img.shields.io/twitter/follow/koustubhbadshah?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+</p>
+
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019dc9ba-00c4-7269-b2c3-95caf1ab5aae" target="blank">
+    Hack The Box
+  </a>
 </p>
 
 <p align="center">
